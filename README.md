@@ -1,3 +1,8 @@
 # Ren_task
 
-This directory contains the task for the interview dated 03/16/2022
+Эта директория содержит выполненное задание с собеседования от 16/03/2022
+
+Разработала и тестировала в Windows-среде. 
+
+Активировать зависимости:
+$ pip install -r req.txt
