@@ -19,7 +19,7 @@
 
 Установка:
 
-py -m venv .jupyter_venv
-pip install jupyter notebook
+py -m venv .jupyter_venv  
+pip install jupyter notebook  
 pip install -r .\req.txt
 
