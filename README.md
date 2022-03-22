@@ -17,6 +17,9 @@
 
 Разработка и тестирование осуществлялось в Windows-среде. 
 
-Активирование зависимостей:
-$ pip install -r req.txt
+Установка:
+
+py -m venv .jupyter_venv
+pip install jupyter notebook
+pip install -r .\req.txt
 
