@@ -1,0 +1,4 @@
+.jupyter_venv/
+.ipynb_checkpoints/
+KerasRegression_model.h5
+req.txt
